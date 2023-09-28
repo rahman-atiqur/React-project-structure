@@ -7,6 +7,7 @@ function App() {
         <>
             <div className="App">
                 <h2>-: Project-Structure :-</h2>
+                <h2>-: Project-Structure :-</h2>
                 <img src={screenShot} alt="logo" width={500} height={800} />
             </div>
         </>
